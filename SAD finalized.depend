@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1548967682 source:c:\users\nebil a\documents\c++programs\sad finalized\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<fstream>
+	<string>
+	<sstream>
+
